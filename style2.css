@@ -34,3 +34,9 @@
 #introduccion{
     max-width: 900px;
 }
+
+@media screen and (max-width: 50em) {
+    #promo {
+        background: url(negro.jpg) 50% 
+        }
+    }
