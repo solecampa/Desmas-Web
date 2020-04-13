@@ -51,13 +51,13 @@
         font-size: 20px;
     }
     }
-@media screen and (min-width: 576px){
+@media screen and (min-width: 295px){
 #promo {
-    max-width: 540px;
+    max-width: 270px;
 }
 }
-@media screen and (min-width: 576px){
+@media screen and (min-width: 295px){
 #promo .jumbotron {
-    max-width: 540px;
+    max-width: 270px;
 }
 }
