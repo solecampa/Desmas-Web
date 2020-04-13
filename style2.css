@@ -1,7 +1,7 @@
 #promo {
     text-align:center;
     padding: 40px;
-    width: 100%;
+  
     background-size: cover;
     
    
@@ -10,9 +10,8 @@
 #promo .jumbotron {
     border-radius: 20px;
     background-color: rgb(255,255,255,0.5);
-    max-width: 900px;
     margin:auto;
-    width: 100%
+
 }
 
 #subti {
