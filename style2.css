@@ -14,8 +14,25 @@
 
 #subti {
     font-size: 25px;
-    }
+}
 
+.intro {
+        text-align: center;
+ }
+
+#introduccion {
+    max-width: 900px;
+}
+
+.navbar {
+    padding: 16px;
+}
+.navbar-nav li{
+    padding: 10px;
+}
+.nav-link {
+    font-size: 20px;
+}
 
     @media (max-width:600px){
         #titulo {
@@ -28,15 +45,4 @@
     }
     }
 
-    .intro {
-        text-align: center;
-    }
-#introduccion{
-    max-width: 900px;
-}
 
-@media screen and (max-width: 50em) {
-    #promo {
-        background: url(prueba2/negro.jpg) 50% 
-        }
-    }
