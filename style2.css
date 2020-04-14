@@ -52,6 +52,11 @@ html body{
     @media (max-width:480px){
         .jumbotron {
         background-image: url(negro.jpg);
-        max-width: 520px;
+        background-size: cover;
     }
     }
+    @media screen and (max-width: 480px) {
+        .jumbotron {
+          background-color: #add8e6;
+        }
+      }
