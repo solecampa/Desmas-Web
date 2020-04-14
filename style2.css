@@ -1,3 +1,7 @@
+html body{
+    height: 100%;
+}
+
 #promo {
     text-align:center;
     padding: 40px;
