@@ -4,7 +4,7 @@ html body{
 
 
 .jumbotron {
-    background-image: url("negro.jpg");
+    background-image: url(negro.jpg);
     background-size: cover;
     text-align:center;
     padding: 70px;
@@ -51,6 +51,7 @@ html body{
     }
     @media (max-width:480px){
         .jumbotron {
+        background-image: url(negro.jpg);
         max-width: 520px;
     }
     }
