@@ -2,14 +2,15 @@ html body{
     height: 100%;
 }
 
-#promo {
-    text-align:center;
-    padding: 40px;
-    
+
+.jumbotron {
+    background-image: url("negro.jpg");
     background-size: cover;
+    text-align:center;
+    padding: 70px;
 }
 
-#promo .jumbotron {
+#porta  {
     border-radius: 20px;
     background-color: rgb(255,255,255,0.5);
     max-width: 900px;
@@ -48,8 +49,8 @@ html body{
         font-size: 20px;
     }
     }
-    @media (max-width:576px){
-        #promo {
+    @media (max-width:480px){
+        .jumbotron {
         max-width: 520px;
     }
     }
