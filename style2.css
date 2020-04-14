@@ -16,8 +16,11 @@
     #promo {
         text-align:center;
         padding: 40px;
-        background-image: url("negro.jpg");
         background-size: cover;
+        background-image: url(negro.jpg);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center center;
     }
 
     #promo .jumbotron {
@@ -72,6 +75,11 @@
     .servie{
         text-align: center;
     }
+
+
+/*probando*/
+ 
+
 
 /*footer*/
 
