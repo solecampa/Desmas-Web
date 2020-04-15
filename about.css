@@ -1,0 +1,103 @@
+
+.section-title{
+    text-align: center;
+    padding: 40px;
+}
+
+#aboutUs{
+    text-align: center;
+    margin: auto;
+}
+
+#aboutUs img{
+ height: 300px;
+ width: 300px;
+ margin-right: 0px;
+}
+
+#descripcion  {
+ text-align: center;
+ text-align: justify;
+
+}
+#descripcion p {
+    max-width: 600px;
+   
+   }
+
+#descripcion ul>li {
+    list-style-type: none;
+}
+
+ul.social-buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul.social-buttons li a {
+    font-size: 20px;
+    line-height: 50px;
+    display: block;
+    width: 50px;
+    height: 50px;
+    transition: all 0.3s;
+    color: white;
+    border-radius: 100%;
+    outline: none;
+    background-color: #212529;
+
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+    background-color: rgba(119, 7, 7, 0.904);
+}
+
+/*footer*/
+
+.footer {
+    background-color: rgb(27, 27, 27);
+    padding: 25px 0;
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+
+.copyright{
+    
+    color: rgb(68, 68, 67);
+    margin-bottom: 25px;
+
+}
+
+ul.social-buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul.social-buttons li a {
+    font-size: 20px;
+    line-height: 50px;
+    display: block;
+    width: 50px;
+    height: 50px;
+    transition: all 0.3s;
+    color: white;
+    border-radius: 100%;
+    outline: none;
+    background-color: #212529;
+
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+    background-color: rgba(119, 7, 7, 0.904);
+}
+
+#logo{
+    text-decoration: none;
+    color: rgba(119, 7, 7, 0.904);
+    text-align: center;
+    font-size: 30px;
+
+    
+}
