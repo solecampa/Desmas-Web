@@ -2,39 +2,53 @@
 
 
 .section-title{
-    text-align: center;
-    padding: 40px;
-    background-color:rgb(27, 27, 27); 
-    color:  rgb(68, 68, 67);
+text-align: center;
+padding: 40px;
+background-color:rgb(27, 27, 27); 
+color:  rgb(68, 68, 67);
 }
 
 #aboutUs{
-    text-align: center;
-    margin: auto;
-    padding-top: 20px;
+text-align: center;
+margin: auto;
+padding-top: 20px;
 
 }
 
 #aboutUs img{
- height: 300px;
- width: 300px;
- margin-right: 0px;
+height: 300px;
+width: 300px;
+margin-right: 0px;
 }
 
 #descripcion  {
- text-align: center;
- text-align: justify;
- padding-top: 40px ;
+text-align: center;
+text-align: justify;
+padding-top: 40px ;
 
 }
 #descripcion p {
-    max-width: 500px;
+max-width: 600px;
    
 }
-   #descripcion i {
-    font-size: 30px;
-    color: rgba(119, 7, 7, 0.904) ;
-    padding: 10px;
+
+
+#descricion li p {
+max-width: 400px;
+text-align: center;
+}
+
+#descripcion h5 {
+
+}
+
+
+
+
+#descripcion i {
+font-size: 30px;
+color: rgba(119, 7, 7, 0.904) ;
+padding: 10px;
 
    
 }
