@@ -5,7 +5,7 @@
     text-align: center;
     padding: 40px;
     background-color:rgb(27, 27, 27); 
-    color:  rgb(153, 148, 148);
+    color:  rgb(68, 68, 67);
 }
 
 #aboutUs{
@@ -80,7 +80,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .copyright{
     
-    color: rgb(153, 148, 148);
+    color: rgb(68, 68, 67);
     margin-bottom: 25px;
 
 }

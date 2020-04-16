@@ -1,0 +1,148 @@
+$color1: rgba(119, 7, 7, 0.904);
+$color2: rgb(27, 27, 27);
+$color3: rgb(68,68,67);
+
+
+
+    
+.section-title {  
+ text-align: center;
+ padding: 40px;
+ background-color: $color2;
+ color: $color3;
+
+}
+
+.row {
+    padding: 40px;
+    margin-top: auto;
+    
+     .col-md-6{
+         text-align: center;
+
+        .info-box{
+            
+            span{
+               
+                 i {
+                    font-size: 50px;
+                    color: $color1                }
+               }
+            }
+        } 
+    }    
+
+
+
+form{
+    max-width: 900px;
+    margin:auto;
+    .botton{
+        margin: auto;
+    }
+    
+}
+
+.info-box{
+.social-buttons{
+    text-align: center;
+    margin-top: 20px;
+
+    li  {
+            a{
+                font-size: 15px;
+                line-height: 40px;
+                display: block;
+                width: 40px;
+                height: 40px;
+                transition: all 0.3s;
+                color: white;
+                border-radius: 100%;
+                outline: none;
+                background-color: #212529;
+
+                
+                &:active{
+                    background-color: $color1;
+                }
+
+                &:hover{
+                    background-color: $color1;
+
+                }
+
+                &:focus{
+                    background-color: $color1;
+                }
+
+
+            }
+        }
+    
+    }
+}
+
+
+.footer{
+    background-color: rgb(27, 27, 27);
+    padding: 25px 0;
+    margin-top: 100px;
+    text-align: center;
+
+        .social-buttons{
+            text-align: center;
+            margin-top: 20px;
+
+            
+            
+                li  {
+                        a{
+                            font-size: 20px;
+                            line-height: 50px;
+                            display: block;
+                            width: 50px;
+                            height: 50px;
+                            transition: all 0.3s;
+                            color: white;
+                            border-radius: 100%;
+                            outline: none;
+                            background-color: #212529;
+
+                            &:active{
+                                background-color: $color1;
+                            }
+
+                            &:hover{
+                                background-color: $color1;
+
+                            }
+
+                            &:focus{
+                                background-color: $color1;
+                            }
+
+                            
+                            
+                        }
+                    }
+                
+                }
+    
+    .copyright{
+        
+        color: rgb(68, 68, 67);
+        margin-bottom: 25px;
+    
+    }
+
+}
+
+
+#logo{
+    text-decoration: none;
+    color: $color1;
+    text-align: center;
+    font-size: 30px;
+
+    
+}
